@@ -1,4 +1,4 @@
-# Hackintosh-ACPI 
+# Hackintosh-ACPI （不断收集更新）
 
 每个补丁都加上了系统判断补丁，可避免大部分情况下OC引导Windows导致的蓝屏
 
