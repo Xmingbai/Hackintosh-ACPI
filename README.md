@@ -1,4 +1,6 @@
-# Hackintosh-ACPI 每个补丁都加上了系统判断补丁，可避免大部分情况下OC引导Windows导致的蓝屏
+# Hackintosh-ACPI 
+
+每个补丁都加上了系统判断补丁，可避免大部分情况下OC引导Windows导致的蓝屏
 
 对于什么主板需要什么补丁？
 
