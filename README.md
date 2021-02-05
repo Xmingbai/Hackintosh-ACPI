@@ -13,3 +13,8 @@ https://dortania.github.io/Getting-Started-With-ACPI/ssdt-platform.html#desktop
 https://www.bilibili.com/video/BV1U5411Y7Bs/
 
 
+若有其他问题请加Q群：1125705781，备注小明或者B站
+
+也欢迎关注B站：小明和他的女朋友
+
+https://space.bilibili.com/591453294?spm_id_from=333.788.b_765f7570696e666f.2
